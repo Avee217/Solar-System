@@ -1,9 +1,8 @@
 # Solar-System
 
-The Milky way galaxy can be explored by clicking on the individual planets in this interactive solar system.
-This project built in the Unity3D engine. 
+The Milky way galaxy can be explored by clicking on the individual planets in this interactive solar system. This project  was built using the Unity3D engine.
 
-Each plant in the milky way galaxy can be focused upon by clicking on it. The camera changes its position to focuses on selected planet. 
+Each planet in the milky way galaxy can be brought to focus by clicking on it. The camera changes its position to focus on the selected planet.
 
 ### Instructions
 1. Download the .zip file and extract to your system
