@@ -7,3 +7,7 @@ Each planet in the milky way galaxy can be brought to focus by clicking on it. T
 ### Instructions
 1. Download the .zip file and extract to your system
 2. Play by opening the `index.html` file located in the Builds/WebGL folder.
+
+![](Screenshots/Solar1.png)
+![](Screenshots/Solar2.png)
+![](Screenshots/Solar3.png)
